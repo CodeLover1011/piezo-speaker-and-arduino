@@ -1,0 +1,1 @@
+All the comments in the code file (.ino) are explaining the code. And remember this project is at the demo version. In the future i want to add python progra that converts any mp3 file to frequency array and pastes it into the arduino code. If you want to contact me: seydaliyev.ugur@gmail.com
